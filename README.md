@@ -8,7 +8,6 @@ cd backend
 npm install
 npm start
 ```
-Open http://localhost:3000
 
 API:
 - GET /api/bookings
